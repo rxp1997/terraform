@@ -1,4 +1,6 @@
-Project to enable APIs and StackDriver export to PubSub in a project
+Project to enable project APIs and StackDriver export to PubSub in a project
+
+MISSING: need to add folder & billing account
 
 Update gcp.tfvars
 ```terraform
